@@ -130,7 +130,7 @@
                             </execution>
                         </executions>
                         <configuration>
-                            <serverId>nexus-releases</serverId>
+                            <serverId>nexus</serverId>
                             <nexusUrl>http://localhost:8090/nexus/</nexusUrl>
                             <skipStaging>true</skipStaging>
                         </configuration>
